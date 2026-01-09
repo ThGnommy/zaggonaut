@@ -1,10 +1,10 @@
 ---
-import { getConfigurationCollection, processArticleDate } from "../lib/utils";
-import type { ProjectFrontmatter } from "../lib/types";
-import Prose from "../components/Prose.astro";
-import Layout from "./Layout.astro";
-import Section from "../components/common/Section.astro";
 import Anchor from "../components/common/Anchor.astro";
+import Section from "../components/common/Section.astro";
+import Prose from "../components/Prose.astro";
+import type { ProjectFrontmatter } from "../lib/types";
+import { getConfigurationCollection, processArticleDate } from "../lib/utils";
+import Layout from "./Layout.astro";
 
 type Props = { frontmatter: ProjectFrontmatter };
 
@@ -61,7 +61,7 @@ const { data: config } = await getConfigurationCollection();
       <h1 class="text-3xl sm:text-4xl leading-tight font-display">
         {frontmatter.title}
       </h1>
-      <div class="flex text-sm gap-2">
+      <div class="flex flex-wrap text-sm gap-2">
         {
           frontmatter.tags
             ? frontmatter.tags.map((tag) => (
