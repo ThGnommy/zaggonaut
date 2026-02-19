@@ -1,12 +1,12 @@
 ---
-title: Zaggonaut
-slug: zaggonaut
+title: Godot 3D Auto Collision Generator
+slug: godot-3d-auto-collision-generator
 description: A retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.
-longDescription: Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro.
+longDescription: Create the collision for multiple 3D objects in one click.
 cardImage: "https://zaggonaut.dev/michael-dam-unsplash.webp"
-tags: ["astro", "portfolio", "open-source"]
-githubUrl: https://github.com/RATIU5/zaggonaut
-timestamp: 2025-02-24T02:39:03+00:00
+tags: ["godot"]
+githubUrl: https://github.com/ThGnommy/godot_3d_auto_collision_generator
+timestamp: 2024-09-09T10:39:03+00:00
 featured: true
 ---
 
