@@ -40,9 +40,9 @@ ctaUrl = "/projects"
 
 [_.personal]
 name = "Thomas"
-githubProfile = "https://github.com/RATIU5/zaggonaut"
+githubProfile = "https://github.com/ThGnommy"
 twitterProfile = "https://twitter.com"
-linkedinProfile = "https://linkedin.com/"
+linkedinProfile = "https://www.linkedin.com/in/thbrandoli"
 
 [_.texts]
 articlesName = "Articles"
