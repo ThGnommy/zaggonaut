@@ -5,35 +5,35 @@
 baseUrl = "http://localhost:4321"
 
 [_.globalMeta]
-title = "Zaggonaut"
-description = "Retro-Inspired Theme & Built for Astro"
-longDescription = "Zaggonaut is a retro-inspired theme for Astro, built using TypeScript, TailwindCSS, and Astro."
+title = "Thomas Brandoli"
+description = "Software, game development, audio & things I'm building."
+longDescription = "A personal blog and portfolio about software development, game development, audio programming, projects, and things I find interesting."
 cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
-keywords = ["web development", "design", "technology"]
+keywords = ["software development", "game development", "audio programming", "c++", "unreal engine", "godot"]
 
 [_.blogMeta]
-title = "Zaggonaut Blog"
-description = "Practical wisdom, unfiltered thoughts, and hot takes."
-longDescription = "Web development, tech trends, and the occasional programming mishap."
+title = "Blog"
+description = "Thoughts, experiments, tutorials, and things I've learned."
+longDescription = "Articles about software development, game development, audio programming, tools and experiments."
 cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
-keywords = ["web development", "design", "technology"]
+keywords = ["software development", "game development", "audio programming", "c++", "unreal engine", "godot", "thoughts"]
 
 [_.projectMeta]
-title = "Zaggonaut Projects"
-description = "A list of my web development projects and developer tools."
-longDescription = "All of my projects, including both frontend and full-stack applications."
+title = "Projects"
+description = "Things I've built, broken, fixed, and shipped."
+longDescription = "A collection of personal projects."
 cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
-keywords = ["web development", "design", "technology"]
+keywords = ["projects", "game development", "software development", "c++", "unreal engine", "godot"]
 
 [_.notFoundMeta]
-title = "Zaggonaut 404"
+title = "404"
 description = "The page you are looking for does not exist."
 longDescription = "The page you are looking for does not exist. Maybe it never existed. Spooky."
 cardImage = "https://zaggonaut.dev/michael-dam-unsplash.webp"
 
 [_.hero]
 title = "Thomas Brandoli"
-subtitle = "Tech, Projects & Thoughts"
+subtitle = "Code, Games & Sound"
 image = "https://zaggonaut.dev/michael-dam-unsplash.webp"
 ctaText = "View Projects"
 ctaUrl = "/projects"
