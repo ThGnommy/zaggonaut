@@ -41,7 +41,7 @@ ctaUrl = "/projects"
 [_.personal]
 name = "Thomas"
 githubProfile = "https://github.com/ThGnommy"
-twitterProfile = "https://twitter.com"
+itchProfile = "https://gnommy.itch.io/"
 linkedinProfile = "https://www.linkedin.com/in/thbrandoli"
 
 [_.texts]
