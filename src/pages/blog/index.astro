@@ -60,6 +60,7 @@ const { data: config } = await getConfigurationCollection();
               duration={`${article.data.readTime} min`}
               url={`/blog/${article.data.slug}`}
               timestamp={article.data.timestamp}
+              tags={article.data.tags ?? []}
             />
           </li>
         ))
